@@ -216,3 +216,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Data files (not uploaded to GitHub)
+*.csv
+notebooks/data/markets_raw.json
+notebooks/data/prices/
